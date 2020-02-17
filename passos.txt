@@ -1,0 +1,43 @@
+1 - npm init -y
+2 - npm install express
+3 - node server.js  => executa o arquivo server.js
+4 - npm install -D nodemon => atualizar o navegador automaticamente
+5 - npm run dev (Depois de já ter colocado o script de execução, o run dev irá startar a aplicação)
+7 - instalar MongoDB e Robo3T || instale o Docker Toolbox para virtualbox e o Robo3T
+8 - Baixando o container pelo Docker
+8.1 - docker pull mongo (vai baixar o banco na VM)
+8.2 - docker run --name mongodb -p 27017:27017 -d mongo (Para executar a imagem baixada)
+8.3 - docker ps -a (mostra todas as imagens salvas no se container)
+8.4 - docker start mongodb
+9 - npm install mongoose (Dependencia para MongoDB)(ORM de bancos não relacionais) 
+10 - npm install require-dir (opcional, faz o require em todos os arquivos automaticamente )
+11 - npm install mongoose-paginate  (para paginação no banco de dados)
+12 - npm install cors (para permitir acesso externo à aplicação)
+13 - 
+14 - 
+15 - 
+
+
+
+
+
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////
+1 - 
+2 - 
+3 -
+4 - 
+5 - 
+7 - 
+8 -
+9 - 
+10 - 
+11 - 
+12 -
+13 - 
+14 - 
+15 - 
